@@ -1,0 +1,70 @@
+
+body{
+   
+    background-color: black;
+
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
+div{
+    position: absolute;
+    color: aqua;
+text-align: center
+;
+}
+.div1{
+    position: absolute;
+margin-left: 0%;
+margin-top:26%;
+}
+.div2{
+    position: absolute;
+margin-left: 10%;
+margin-top: 26%;
+}
+.div3{
+    position: absolute;
+margin-left: 18.5%;
+margin-top: 26%;
+}
+.div4{ position: absolute;
+    margin-left: 29%;
+    margin-top: 26%;
+    }
+    .div5{ position: absolute;
+        margin-left: 39%;
+        margin-top: 26%;
+        }
+.div6{ position: absolute;
+    margin-left: 0%;
+    margin-top: 40%;
+    }
+    .div7{ position: absolute;
+        margin-left: 11%;
+        margin-top: 40%;
+        }
+    
+  .div8{ position: absolute;
+    margin-left: 21%;
+    margin-top: 40%;
+    }
+
+    .div9{ position: absolute;
+        margin-left: 36%;
+        margin-top: 40%;
+        }
+
+
+   .div10{
+    position: absolute;
+    margin-left: 50%;
+    
+   } 
+   
+    
+p{
+    font-family: 'Lobster', cursive;
+}
